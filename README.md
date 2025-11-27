@@ -4,6 +4,8 @@ An Exploratory Data Analysis (EDA) project focused on understanding how demograp
 This project provides insights that can help educators, parents, and policymakers understand factors influencing student success.
 
 
+
+
 📁 Dataset
 
 The dataset contains student-level information such as:
@@ -26,7 +28,9 @@ Sports Participation
 
 Transport Mode
 
-Subject Scores (Math, Reading, Writing)
+Subject Scores (Math, Reading, Writing).
+
+
 
 
 
@@ -40,7 +44,9 @@ Identify trends, patterns, and distributions
 
 Visualize insights using Python libraries
 
-Support data-driven educational decisions
+Support data-driven educational decisions.
+
+
 
 
 📊 Key Insights
@@ -75,6 +81,8 @@ Students studying 6–10 hrs/week score significantly higher.
 
 
 
+
+
 🛠 Tools & Technologies Used
 
 Python
@@ -87,7 +95,11 @@ Matplotlib
 
 Seaborn
 
-Jupyter Notebook for analysis & reporting
+Jupyter Notebook for analysis & reporting.
+
+
+
+
 
 📂 Project Structure
 📦 student-Data-Analysis/
@@ -96,6 +108,8 @@ Jupyter Notebook for analysis & reporting
 ├── Student data.csv                    # Dataset used for analysis
 ├── All images of output.pdf            # PDF containing all generated plots
 └── README.md                           # Project documentation
+
+
 
 
 🤝 Connect
