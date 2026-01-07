@@ -3,7 +3,7 @@
 An Exploratory Data Analysis (EDA) project focused on understanding how demographics, lifestyle, and family background affect students’ Math, Reading, and Writing performance.
 This project provides insights that can help educators, parents, and policymakers understand factors influencing student success.
 
-
+---
 
 
 📁 Dataset
@@ -31,7 +31,7 @@ Transport Mode
 Subject Scores (Math, Reading, Writing).
 
 
-
+---
 
 
 🔍 Project Objectives
@@ -46,7 +46,7 @@ Visualize insights using Python libraries
 
 Support data-driven educational decisions.
 
-
+---
 
 
 📊 Key Insights
@@ -80,7 +80,7 @@ Median scores: 65–70 across Math, Reading, Writing with mild outliers.
 Students studying 6–10 hrs/week score significantly higher.
 
 
-
+---
 
 
 🛠 Tools & Technologies Used
@@ -97,7 +97,7 @@ Seaborn
 
 Jupyter Notebook for analysis & reporting.
 
-
+---
 
 
 
@@ -110,6 +110,7 @@ Jupyter Notebook for analysis & reporting.
 └── README.md                           # Project documentation
 
 
+---
 
 
 🤝 Connect
