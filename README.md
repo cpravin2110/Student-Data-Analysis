@@ -105,7 +105,6 @@ Jupyter Notebook for analysis & reporting.
 📦 student-Data-Analysis/
 │
 ├── Student Data Analyais (1).ipynb     # Jupyter Notebook with full EDA
-├── Student data.csv                    # Dataset used for analysis
 ├── All images of output.pdf            # PDF containing all generated plots
 └── README.md                           # Project documentation
 
