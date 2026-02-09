@@ -1,4 +1,4 @@
-## 🎓 Student Performance Analysis (EDA) with Python
+# 🎓 Student Performance Analysis (EDA) with Python
 
 An Exploratory Data Analysis (EDA) project focused on understanding how demographics, lifestyle, and family background affect students’ Math, Reading, and Writing performance.
 This project provides insights that can help educators, parents, and policymakers understand factors influencing student success.
@@ -6,7 +6,7 @@ This project provides insights that can help educators, parents, and policymaker
 ---
 
 
-### 📁 Dataset
+## 📁 Dataset
 
 **💠The dataset contains student-level information such as:**
 
@@ -34,7 +34,7 @@ This project provides insights that can help educators, parents, and policymaker
 ---
 
 
-### 🔍 Project Objectives
+## 🔍 Project Objectives
 
 ⁘  Perform thorough data cleaning & preprocessing
 
@@ -49,7 +49,7 @@ This project provides insights that can help educators, parents, and policymaker
 ---
 
 
-### 📊 Key Insights
+## 📊 Key Insights
 
 **✔ Gender Distribution**
 
@@ -83,7 +83,7 @@ Students studying 6–10 hrs/week score significantly higher.
 ---
 
 
-### 🛠 Tools & Technologies Used
+## 🛠 Tools & Technologies Used
 
 »  Python
 
@@ -101,7 +101,7 @@ Students studying 6–10 hrs/week score significantly higher.
 
 
 
-### 📂 Project Structure
+## 📂 Project Structure
 
 📦 student-Data-Analysis/
 │
