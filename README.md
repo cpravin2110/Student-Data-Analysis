@@ -1,4 +1,4 @@
-🎓 Student Performance Analysis (EDA) with Python
+## 🎓 Student Performance Analysis (EDA) with Python
 
 An Exploratory Data Analysis (EDA) project focused on understanding how demographics, lifestyle, and family background affect students’ Math, Reading, and Writing performance.
 This project provides insights that can help educators, parents, and policymakers understand factors influencing student success.
@@ -6,76 +6,76 @@ This project provides insights that can help educators, parents, and policymaker
 ---
 
 
-📁 Dataset
+### 📁 Dataset
 
-The dataset contains student-level information such as:
+**💠The dataset contains student-level information such as:**
 
-Gender
+● Gender
 
-Ethnic Group
+● Ethnic Group
 
-Parental Education
+● Parental Education
 
-Parental Marital Status
+● Parental Marital Status
 
-Lunch type
+● Lunch type
 
-Test Preparation
+● Test Preparation
 
-Study Hours
+● Study Hours
 
-Sports Participation
+● Sports Participation
 
-Transport Mode
+● Transport Mode
 
-Subject Scores (Math, Reading, Writing).
+● Subject Scores (Math, Reading, Writing).
 
 
 ---
 
 
-🔍 Project Objectives
+### 🔍 Project Objectives
 
-Perform thorough data cleaning & preprocessing
+⁘  Perform thorough data cleaning & preprocessing
 
-Explore relationships between student attributes and scores
+⁘  Explore relationships between student attributes and scores
 
-Identify trends, patterns, and distributions
+⁘  Identify trends, patterns, and distributions
 
-Visualize insights using Python libraries
+⁘  Visualize insights using Python libraries
 
-Support data-driven educational decisions.
+⁘  Support data-driven educational decisions.
 
 ---
 
 
-📊 Key Insights
+### 📊 Key Insights
 
-✔ Gender Distribution
+**✔ Gender Distribution**
 
 Nearly balanced dataset, with male and female students represented almost equally.
 
-✔ Ethnic Groups
+**✔ Ethnic Groups**
 
 Groups A–E present; Groups C and D together make up 40%+ of the dataset.
 
-✔ Parental Education
+**✔ Parental Education**
 
 Students with highly educated parents showed 10–15 point higher Math averages.
 
-✔ Parental Marital Status
+**✔ Parental Marital Status**
 
 Children from married households performed slightly better across subjects.
 
-✔ Subject Score Trends
+**✔ Subject Score Trends**
 
 Median scores: 65–70 across Math, Reading, Writing with mild outliers.
 
-✔ Sports & Lifestyle
+**✔ Sports & Lifestyle**
 
 50%+ of male students participate in sports — higher than females.
 
-✔ Study Hours
+**✔ Study Hours**
 
 Students studying 6–10 hrs/week score significantly higher.
 
@@ -83,25 +83,26 @@ Students studying 6–10 hrs/week score significantly higher.
 ---
 
 
-🛠 Tools & Technologies Used
+### 🛠 Tools & Technologies Used
 
-Python
+»  Python
 
-Pandas
+»  Pandas
 
-NumPy
+»  NumPy
 
-Matplotlib
+»  Matplotlib
 
-Seaborn
+»  Seaborn
 
-Jupyter Notebook for analysis & reporting.
+»  Jupyter Notebook for analysis & reporting.
 
 ---
 
 
 
-📂 Project Structure
+### 📂 Project Structure
+
 📦 student-Data-Analysis/
 │
 ├── Student Data Analyais (1).ipynb     # Jupyter Notebook with full EDA
@@ -112,7 +113,7 @@ Jupyter Notebook for analysis & reporting.
 ---
 
 
-🤝 Connect
+### 🤝 Connect
 
 If you like this project or want to collaborate, feel free to connect!
 
