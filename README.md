@@ -1,6 +1,6 @@
 # 🎓 Student Performance Analysis (EDA) | Python
 
-![Dashboard Preview](Screenshot%202025-11-22%20131808.png)
+![Dashboard Preview](https://github.com/cpravin2110/Student-Data-Analysis/blob/e497b75da3fd041f1821c06d836e0df8522f8325/student%20analysis%20template.png)
 
 ---
 ## 📌 Project Overview
