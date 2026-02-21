@@ -1,5 +1,7 @@
 # 🎓 Student Performance Analysis (EDA) | Python
 
+![Dashboard Preview](Screenshot%202025-11-22%20131808.png)
+
 ---
 ## 📌 Project Overview
 
