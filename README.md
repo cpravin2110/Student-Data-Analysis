@@ -1,104 +1,90 @@
 # 🎓 Student Performance Analysis (EDA) with Python
 
-An Exploratory Data Analysis (EDA) project focused on understanding how demographics, lifestyle, and family background affect students’ Math, Reading, and Writing performance.
-This project provides insights that can help educators, parents, and policymakers understand factors influencing student success.
+---
+## 📌 Project Overview
+
+This project focuses on analyzing student academic performance using Python Exploratory Data Analysis (EDA) to identify factors influencing Math, Reading, and Writing scores. The dataset includes demographic, lifestyle, and family background information to understand how different attributes affect student success.
+
+The analysis reveals that average scores across subjects range between 65–70 marks, while students with highly educated parents scored 10–15 marks higher on average. Students studying 6–10 hours per week consistently achieved better performance, highlighting the importance of study habits and family background in academic outcomes.
 
 ---
 
 
-## 📁 Dataset
+## 🎯 Objectives
 
-**💠The dataset contains student-level information such as:**
+» Analyze student performance across Math, Reading, and Writing.
 
-● Gender
+» Identify key factors affecting academic scores.
 
-● Ethnic Group
+» Evaluate the impact of parental education, lifestyle, and study hours.
 
-● Parental Education
+» Discover patterns using data visualization.
 
-● Parental Marital Status
-
-● Lunch type
-
-● Test Preparation
-
-● Study Hours
-
-● Sports Participation
-
-● Transport Mode
-
-● Subject Scores (Math, Reading, Writing).
-
+» Support data-driven educational decision-making.
 
 ---
 
 
-## 🔍 Project Objectives
+## 🛠 Tools & Technologies
 
-⁘  Perform thorough data cleaning & preprocessing
+● Python
 
-⁘  Explore relationships between student attributes and scores
+● Pandas – Data cleaning and manipulation
 
-⁘  Identify trends, patterns, and distributions
+● NumPy – Numerical analysis
 
-⁘  Visualize insights using Python libraries
+● Matplotlib & Seaborn – Data visualization
 
-⁘  Support data-driven educational decisions.
-
----
-
-
-## 📊 Key Insights
-
-**✔ Gender Distribution**
-
-Nearly balanced dataset, with male and female students represented almost equally.
-
-**✔ Ethnic Groups**
-
-Groups A–E present; Groups C and D together make up 40%+ of the dataset.
-
-**✔ Parental Education**
-
-Students with highly educated parents showed 10–15 point higher Math averages.
-
-**✔ Parental Marital Status**
-
-Children from married households performed slightly better across subjects.
-
-**✔ Subject Score Trends**
-
-Median scores: 65–70 across Math, Reading, Writing with mild outliers.
-
-**✔ Sports & Lifestyle**
-
-50%+ of male students participate in sports — higher than females.
-
-**✔ Study Hours**
-
-Students studying 6–10 hrs/week score significantly higher.
-
+● Jupyter Notebook – Analysis environment
 
 ---
 
 
-## 🛠 Tools & Technologies Used
+## 📊 Dataset Overview
 
-»  Python
+● Student demographic and lifestyle data.
 
-»  Pandas
+● Features include gender, parental education, study hours, sports participation, and test preparation.
 
-»  NumPy
+● Academic scores in Math, Reading, and Writing.
 
-»  Matplotlib
+● Cleaned dataset with structured format for analysis.
 
-»  Seaborn
-
-»  Jupyter Notebook for analysis & reporting.
 
 ---
 
+## 🔍 Key Insights
+
+⁘ Average student scores range between 65–70 marks, indicating moderate overall performance.
+
+⁘ Students with highly educated parents scored 10–15 marks higher, showing strong parental influence.
+
+⁘ Students studying 6–10 hours weekly achieved higher average scores compared to others.
+
+⁘ Ethnic Groups C and D represent over 40% of total students, forming the majority segment.
+
+⁘ Sports participation exceeded 50% among male students, showing lifestyle variation across demographics.
+
+---
+
+
+## 📈 Analysis Highlights
+
+⁘ Identified relationships between study habits and academic performance.
+
+⁘ Evaluated impact of parental education and family background.
+
+⁘ Compared performance across demographic groups.
+
+⁘ Visualized score distributions and performance trends.
+
+---
+
+##🚀 Conclusion
+
+This project demonstrates how Python-based Exploratory Data Analysis can uncover key academic performance drivers. The analysis highlights that parental education, study time, and lifestyle factors significantly influence student scores. These insights can help educators, parents, and institutions develop targeted strategies to improve student performance and academic outcomes.
+
+---
 
 
 ## 📂 Project Structure
