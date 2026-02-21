@@ -1,4 +1,4 @@
-# 🎓 Student Performance Analysis (EDA) with Python
+# 🎓 Student Performance Analysis (EDA) | Python
 
 ---
 ## 📌 Project Overview
